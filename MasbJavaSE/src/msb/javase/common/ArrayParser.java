@@ -4,10 +4,10 @@
 package msb.javase.common;
 
 /**
- * @author oradba
+ * @author mingkun.ling
  *
  */
-public class TestDouble {
+public class ArrayParser {
 
   /**
    * @param args
