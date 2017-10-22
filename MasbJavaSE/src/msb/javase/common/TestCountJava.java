@@ -13,9 +13,9 @@ public class TestCountJava {
    * @param args
    */
   public static void main(String[] args) {
-    // TODO Auto-generated method stub
     String s = "sunjavahpjavaokjavajavahahajavajavagoodjava";
-    System.out.println(countSpecificString(s, "java"));
+    int count = countSpecificString(s, "java");
+    System.out.println(count);
   }
   
   private static int countSpecificString(final String str, final String reg) {
