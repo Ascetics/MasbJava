@@ -1,7 +1,7 @@
 /**
  * 
  */
-package msb.javase.array;
+package msb.j2se.array;
 
 
 /**

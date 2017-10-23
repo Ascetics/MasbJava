@@ -1,7 +1,7 @@
 /**
  * 
  */
-package msb.javase.common;
+package msb.j2se.common;
 
 /**
  * @author mingkun.ling
